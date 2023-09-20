@@ -13,6 +13,7 @@ setup(
     author='Jamie Luckett',
     author_email='jamieluckett@gmail.com',
     license='MIT',
+    install_requires=['jira'],
     classifiers=[
         'Intended Audience :: Developers',
         'Natural Language :: English',
