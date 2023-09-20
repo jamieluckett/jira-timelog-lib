@@ -14,6 +14,7 @@ setup(
     author_email='jamieluckett@gmail.com',
     license='MIT',
     install_requires=['jira'],
+    setup_requires=['wheel'],
     classifiers=[
         'Intended Audience :: Developers',
         'Natural Language :: English',
